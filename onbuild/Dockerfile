@@ -1,4 +1,4 @@
-FROM firebait/meteord:base
+FROM skemb321/meteord:base
 MAINTAINER MeteorHacks Pvt Ltd.
 
 ONBUILD COPY ./ /app
